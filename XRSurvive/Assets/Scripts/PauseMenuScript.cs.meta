@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 722da2546d16222448d8b6a5429f57ee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pauseMenu: {instanceID: 0}
+  - UIHelper: {instanceID: 0}
+  - hand: {instanceID: 0}
+  - mainCamera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

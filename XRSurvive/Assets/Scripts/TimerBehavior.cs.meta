@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 20d57eb938335d34d999fe6d9b51607e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - timerDisplay: {instanceID: 0}
+  - pauseMenu: {fileID: 8428010321103063379, guid: dbd9278256123384c82c7abff495eaeb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
